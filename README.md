@@ -1,7 +1,7 @@
-SysBackup
-Autor: Biaphra Araujo
-E-mail: contato@biaphra.com.br
-Linkedin: https://www.linkedin.com/in/695066353/
+#### SysBackup
+#### Autor: Biaphra Araujo
+#### E-mail: contato@biaphra.com.br
+#### Linkedin: https://www.linkedin.com/in/695066353/
 
 Um aplicativo de backup automatizado desenvolvido com Python e PySide6.
 
